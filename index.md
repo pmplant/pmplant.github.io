@@ -1,6 +1,8 @@
 # About Me
 I'm a software developer with a background in software for embedded devices and an interest in distributed systems, AI, and  interesting engineering problems.  I am currently finishing my final term at the University of Victoria and will be graduating in August of this year.
 
+[Find me on linkedin](www.linkedin.com/in/paul-molina-plant)
+
 ## Experiance
 ### Polaris Motion — Software Developer
   _June 2016 - September 2017, Victoria BC_
