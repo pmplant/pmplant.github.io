@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: Paul Molina-Plant
 description:
-{% comment %}
-logo: photo.png
-{% uncomment %}
+logo:
