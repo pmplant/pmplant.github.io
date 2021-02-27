@@ -1,0 +1,43 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", sans-serif;
+}
+body,
+html {
+  height: 100%;
+  color: #777;
+  line-height: 1.8;
+}
+.column-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  margin: 0 auto;
+  padding: 0 10px;
+  max-width: 720px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+img > .column-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+img {
+  align-self: center;
+  max-width: 480px;
+}
+.centered-ref {
+  align-self: center;
+}
