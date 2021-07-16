@@ -1,0 +1,1 @@
+pandoc resume.html -t latex -o resume.pdf
